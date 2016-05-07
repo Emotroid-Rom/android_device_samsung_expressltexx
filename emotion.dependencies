@@ -1,0 +1,8 @@
+[
+  {
+    "remote":"emotroid",
+    "repository": "Emotroid-Rom/android_device_samsung_expressltexx-common",
+    "target_path": "device/samsung/expressltexx-common",
+    "branch": "mm"
+  }
+]
